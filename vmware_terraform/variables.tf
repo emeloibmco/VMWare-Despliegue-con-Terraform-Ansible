@@ -1,5 +1,5 @@
 variable "user_vsphere" {
-
+    description = ""
 }
 
 variable "vsphere_password" {
