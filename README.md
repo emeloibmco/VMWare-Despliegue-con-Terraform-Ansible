@@ -7,5 +7,5 @@ _Aprovisionamiento de VM´s en un ESXI con terraform y Ansible_
 ## Contenido 🚀
 _En este github se encuentra la información para aprovisionamiento de maquinas virtuales sobre un ESXI con vsphere usando Iac con Terraform y Ansible_
 
-- **vm_vsphere_terraform** = Contiene las instrucciones para aprovisionar maquinas virtuales en un vSphere de vmware con Terraform
-- **vm_vsphere_ansible** = Contiene las instrucciones para aprovisionar maquinas virtuales en un vSphere de vmware con Ansible
+- [**vm_vsphere_terraform**](https://github.com/emeloibmco/VMWare-Despliegue-con-Terraform-Ansible/tree/master/vmware_terraform) = Contiene las instrucciones para aprovisionar maquinas virtuales en un vSphere de vmware con Terraform
+- [**vm_vsphere_ansible**](https://github.com/emeloibmco/VMWare-Despliegue-con-Terraform-Ansible/tree/master/vmware_ansible) = Contiene las instrucciones para aprovisionar maquinas virtuales en un vSphere de vmware con Ansible
