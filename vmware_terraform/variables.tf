@@ -1,3 +1,7 @@
+variable "ip_address" {
+  description = "IP of ESXI host"
+}
+
 variable "user_vsphere" {
     description = ""
 }
@@ -6,11 +10,9 @@ variable "vsphere_password" {
   
 }
 
-variable "ip_address" {
-  
-}
-
 variable "datacenter" {
+    description = "Name of the datacenter"
+    default = "ha-datacenter"
 
 }
 
